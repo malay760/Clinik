@@ -97,6 +97,9 @@ include 'header.php';
                         <div class="ms-4">
                             <p class="mb-2">Mail Us Now</p>
                             <h5 class="mb-0">malayb760@gmail.com</h5>
+                            <h5 class="mb-0">rupakcst766@gmail.com</h5>
+                            <h5 class="mb-0">sayan70441@gmail.com</h5>
+                            <h5 class="mb-0">gourav2004sarkar@gmail.com</h5>
                         </div>
                     </div>
                 </div>
@@ -121,7 +124,7 @@ include 'header.php';
 
                         <p class="d-inline-block border rounded-pill py-1 px-4">Contact Us</p>
                         <h1 class="mb-4">Have Any Query? Please Contact Us!</h1>
-                        <p class="mb-4">The contact form is currently inactive. Get a functional and working contact form with Ajax & PHP in a few minutes. Just copy and paste the files, add a little code and you're done. <a href="https://htmlcodex.com/contact-form">Download Now</a>.</p>
+                        <p class="mb-4">Fill up from our contact from .Have an any query please contanct our four phone number.</p>
                         <form action="" method="post">
                             <div class="row g-3">
                                 <div class="col-md-6">

@@ -8,7 +8,8 @@
                     <p class="mb-2"><i class="fa fa-phone-alt me-3"></i>7548914584/8910536375</p>
                       <p class="mb-2"><i class="fa fa-phone-alt me-3"></i>8617599766/7980503840</p>
                     
-                    <p class="mb-2"><i class="fa fa-envelope me-3"></i>malayb760@gmail.com</p>
+                    <p class="mb-2"><i class="fa fa-envelope me-3"></i>malayb760@gmail.com/rupakcst766@gmail.com</p>
+                    <p class="mb-2"><i class="fa fa-envelope me-3"></i>sayan70441@gmail.com/gourav2004sarkar@gmail.com</p>
                     <div class="d-flex pt-2">
                         <a class="btn btn-outline-light btn-social rounded-circle" href=""><i class="fab fa-twitter"></i></a>
                         <a class="btn btn-outline-light btn-social rounded-circle" href=""><i class="fab fa-facebook-f"></i></a>
@@ -18,11 +19,14 @@
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <h5 class="text-light mb-4">Services</h5>
-                    <a class="btn btn-link" href="">Cardiology</a>
-                    <a class="btn btn-link" href="">Pulmonary</a>
-                    <a class="btn btn-link" href="">Neurology</a>
-                    <a class="btn btn-link" href="">Orthopedics</a>
+                    <a class="btn btn-link" href="">CARDIOLOGY</a>
+                    <a class="btn btn-link" href="">PULMONARY</a>
+                    <a class="btn btn-link" href="">NEUROLOGY</a>
+                    <a class="btn btn-link" href="">ORTHOPEDICT</a>
                     <a class="btn btn-link" href="">MEDICINE</a>
+                    <a class="btn btn-link" href="">ENT</a>
+                    <a class="btn btn-link" href="">DERMATOLOGIST</a>
+                    <a class="btn btn-link" href="">DENTIST</a>
                      
                 </div>
                 <div class="col-lg-3 col-md-6">
@@ -40,11 +44,11 @@
             <div class="copyright">
                 <div class="row">
                     <div class="col-md-6 text-center text-md-start mb-3 mb-md-0">
-                        &copy; <a class="border-bottom" href="#">Your Site Name</a>, All Right Reserved.
+                        &copy; <a class="border-bottom" href="#">GRMS CLINIC</a>, All Right Reserved.
                     </div>
                     <div class="col-md-6 text-center text-md-end">
                         <!--/*** This template is free as long as you keep the footer author’s credit link/attribution link/backlink. If you'd like to use the template without the footer author’s credit link/attribution link/backlink, you can purchase the Credit Removal License from "https://htmlcodex.com/credit-removal". Thank you for your support. ***/-->
-                        Designed By <a class="border-bottom" href="">phinix</a>
+                        Designed By <a class="border-bottom" href="">GRMS</a>
                     </div>
                 </div>
             </div>
